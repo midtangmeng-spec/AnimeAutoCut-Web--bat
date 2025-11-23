@@ -1,0 +1,5 @@
+{
+  "name": "AnimeAutoCut Web",
+  "description": "A professional video trimming tool for anime commentary creators. Parse Markdown cutting lists, preview clips in-browser, and generate FFmpeg batch scripts for local processing.",
+  "requestFramePermissions": []
+}
